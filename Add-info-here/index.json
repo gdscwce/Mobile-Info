@@ -2,60 +2,73 @@
     {
         "id": "1",
         "company name": "samsung",
-        "model number": "M-31",
-        "ram": "8gb",
-        "storage": "64 gb",
+        "model number": "Galaxy S22 Ultra",
+        "ram": "12 gb",
+        "storage": "512 gb",
         "color": "black",
         "number of speakers": "2",
         "launch Date": [
             "26/5/2014"
         ],
         "camera": "32 mp",
+
+        "launch Date":["25/2/2022"],
+        "camera": "108 mp",
+
         "speed": "5g",
         "connectivity": "c"
     },
     {
         "id": "2",
-        "company name": "samsung",
-        "model number": "note 1",
-        "ram": "8gb",
-        "storage": "64 gb",
-        "color": "pink",
+        "company name": "Apple",
+        "model number": "Iphone 14 pro max",
+        "ram": "6gb",
+        "storage": "1 tb",
+        "color": "Purple",
         "number of speakers": "2",
+
         "launch Date": [
             "28/11/2019"
         ],
         "camera": "32 mp",
         "speed": "5g",
         "connectivity": "c"
+        "launch Date":["16/09/2022"],
+        "camera": "48 mp",
+        "speed": "5g",
+        "connectivity":"a"
     },
     {
         "id": "3",
-        "company name": "oppo",
-        "model number": "4662",
-        "ram": "5gb",
-        "storage": "128 gb",
-        "color": "blue",
+        "company name": "Google",
+        "model number": "Pixel 6 pro",
+        "ram": "12 gb",
+        "storage": "512 gb",
+        "color": "black",
         "number of speakers": "2",
         "launch Date": [
             "25/12/2019"
         ],
         "camera": "64 mp",
+        "launch Date":["19/10/2021"],
+        "camera": "50 mp",
         "speed": "5g",
         "connectivity": "c"
     },
     {
         "id": "4",
         "company name": "oppo",
-        "model number": "reno 3",
-        "ram": "5gb",
-        "storage": "128 gb",
-        "color": "blue",
+        "model number": "reno 6 pro",
+        "ram": "12 gb",
+        "storage": "256 gb",
+        "color": "cerulean blue",
         "number of speakers": "2",
         "launch Date": [
             "5/5/2020"
         ],
         "camera": "128 mp",
+        "launch Date":["5/6/2021"],
+        "camera": "64 mp",
         "speed": "5g",
         "connectivity": "c"
     },
@@ -558,6 +571,7 @@
         ],
         "camera": "42 mp",
         "speed": "4g",
+
         "connectivity": "c"
     },
     {
@@ -590,6 +604,7 @@
         "speed": "4g",
         "connectivity": "c"
     },
+
     {
         "id": "38",
         "company name": "Redmi",
@@ -605,6 +620,7 @@
         "speed": "4g",
         "connectivity": "c"
     },
+
     {
         "id": "47",
         "company name": "Readmi",
@@ -620,6 +636,7 @@
         "speed": "4g",
         "connectivity": "c"
     },
+
     {
         "id": "39",
         "company name": "poco",
@@ -632,6 +649,7 @@
             "22/8/2019"
         ],
         "camera": "64 mp",
+
         "speed": "5g"
     },
     {
@@ -680,3 +698,4 @@
         "connectivity": "c"
     }
 ]
+
