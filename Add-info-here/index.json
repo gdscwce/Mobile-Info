@@ -539,5 +539,18 @@
         "speed": "5g",
         "connectivity":"c"
      },
+   {
+        "id": "40",
+        "company name": "Xiaomi",
+        "model number": "Redmi note 10 pro max",
+        "ram": "8 gb",
+        "storage": "128 gb",
+        "color": "Vintage Bronze",
+        "number of speakers": "2",
+        "launch Date":["18/03/2021"],
+        "camera": "108 mp",
+        "speed": "4g",
+        "connectivity":"c"
+    }
     
 ]
