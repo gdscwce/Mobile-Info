@@ -749,5 +749,20 @@
         "camera": "13 mp",
         "speed": "4g",
         "connectivity": "c"
+},
+{
+    "id": "82",
+        "company name": "realme",
+        "model number": "narzo-20",
+        "ram": "4gb",
+        "storage": "64 gb",
+        "color": "Glory Silver",
+        "number of speakers": "2",
+        "launch Date": [
+            "September 21, 2020"
+        ],
+        "camera": "48 mp",
+        "speed": "4g",
+        "connectivity": "c"
 }
 ]
