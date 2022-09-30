@@ -764,5 +764,20 @@
         "camera": "48 mp",
         "speed": "4g",
         "connectivity": "c"
+},
+{
+    "id": "83",
+        "company name": "realme",
+        "model number": "GT neo 3t",
+        "ram": "6gb/8gb",
+        "storage": "128gb/256gb",
+        "color": ["Shade Black","Dash Yellow","Drifting White"]
+        "number of speakers": "2",
+        "launch Date": [
+            "September 16, 2022 in India"
+        ],
+        "camera": "64 mp",
+        "speed": "5g",
+        "connectivity": "c"
 }
 ]
