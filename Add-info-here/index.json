@@ -7,10 +7,12 @@
         "storage": "64 gb",
         "color": "black",
         "number of speakers": "2",
-        "launch Date":["26/5/2014"],
+        "launch Date": [
+            "26/5/2014"
+        ],
         "camera": "32 mp",
         "speed": "5g",
-        "connectivity":"c"
+        "connectivity": "c"
     },
     {
         "id": "2",
@@ -20,10 +22,12 @@
         "storage": "64 gb",
         "color": "pink",
         "number of speakers": "2",
-        "launch Date":["28/11/2019"],
+        "launch Date": [
+            "28/11/2019"
+        ],
         "camera": "32 mp",
         "speed": "5g",
-        "connectivity":"c"
+        "connectivity": "c"
     },
     {
         "id": "3",
@@ -33,46 +37,57 @@
         "storage": "128 gb",
         "color": "blue",
         "number of speakers": "2",
-        "launch Date":["25/12/2019"],
+        "launch Date": [
+            "25/12/2019"
+        ],
         "camera": "64 mp",
         "speed": "5g",
-        "connectivity":"c"
+        "connectivity": "c"
     },
-    {   "id": "4",
+    {
+        "id": "4",
         "company name": "oppo",
         "model number": "reno 3",
         "ram": "5gb",
         "storage": "128 gb",
         "color": "blue",
         "number of speakers": "2",
-        "launch Date":["5/5/2020"],
+        "launch Date": [
+            "5/5/2020"
+        ],
         "camera": "128 mp",
         "speed": "5g",
-        "connectivity":"c"
+        "connectivity": "c"
     },
-     {   "id": "5",
+    {
+        "id": "5",
         "company name": "oppo",
         "model number": "reno 5",
         "ram": "5gb",
         "storage": "128 gb",
         "color": "blue",
         "number of speakers": "2",
-        "launch Date":["28/11/2021"],
+        "launch Date": [
+            "28/11/2021"
+        ],
         "camera": "64 mp",
         "speed": "5g",
-        "connectivity":"c"
+        "connectivity": "c"
     },
-    {   "id": "6",
+    {
+        "id": "6",
         "company name": "oppo",
         "model number": "reno 2",
         "ram": "5gb",
         "storage": "128 gb",
         "color": "blue",
         "number of speakers": "2",
-        "launch Date":["28/11/2020"],
+        "launch Date": [
+            "28/11/2020"
+        ],
         "camera": "64 mp",
         "speed": "5g",
-        "connectivity":"c"
+        "connectivity": "c"
     },
     {
         "id": "7",
@@ -82,10 +97,12 @@
         "storage": "256 gb",
         "color": "green",
         "number of speakers": "2",
-        "launch Date":["28/6/2021"],
+        "launch Date": [
+            "28/6/2021"
+        ],
         "camera": "128 mp",
         "speed": "5g",
-        "connectivity":"c"
+        "connectivity": "c"
     },
     {
         "id": "8",
@@ -95,10 +112,12 @@
         "storage": "128 gb",
         "color": "black",
         "number of speakers": "2",
-        "launch Date":["14/5/2019"],
+        "launch Date": [
+            "14/5/2019"
+        ],
         "camera": "128 mp",
         "speed": "4g",
-        "connectivity":"c"
+        "connectivity": "c"
     },
     {
         "id": "9",
@@ -108,12 +127,14 @@
         "storage": "128 gb",
         "color": "blue",
         "number of speakers": "1",
-        "launch Date":["16/1/2020"],
+        "launch Date": [
+            "16/1/2020"
+        ],
         "camera": "64 mp",
         "speed": "4g",
-        "connectivity":"c"
+        "connectivity": "c"
     },
-     {
+    {
         "id": "10",
         "company name": "samsung",
         "model number": "M-12",
@@ -121,36 +142,41 @@
         "storage": "128 gb",
         "color": "black",
         "number of speakers": "1",
-        "launch Date":["20/1/2020"],
+        "launch Date": [
+            "20/1/2020"
+        ],
         "camera": "64 mp",
         "speed": "4g",
-        "connectivity":"c"
+        "connectivity": "c"
     },
     {
         "id": "11",
-
         "company name": "redmi",
         "model number": "redmi note 8",
         "ram": "4gb",
         "storage": "64 gb",
         "color": "black",
         "number of speakers": "1",
-        "launch Date":["29/08/2019"],
+        "launch Date": [
+            "29/08/2019"
+        ],
         "camera": "48 mp",
         "speed": "4g",
-},{
+    },
+    {
         "company name": "samsung",
         "model number": "M-10",
         "ram": "6gb",
         "storage": "128 gb",
         "color": "white",
         "number of speakers": "2",
-        "launch Date":["30/9/2021"],
+        "launch Date": [
+            "30/9/2021"
+        ],
         "camera": "64 mp",
         "speed": "5g",
-        "connectivity":"c"
+        "connectivity": "c"
     },
-       
     {
         "id": "13",
         "company name": "samsung",
@@ -159,12 +185,14 @@
         "storage": "128 gb",
         "color": "white",
         "number of speakers": "2",
-        "launch Date":["30/9/2021"],
+        "launch Date": [
+            "30/9/2021"
+        ],
         "camera": "64 mp",
         "speed": "5g",
-        "connectivity":"c"
+        "connectivity": "c"
     },
-      {
+    {
         "id": "11",
         "company name": "Xiaomi",
         "model number": "Black shark 3",
@@ -172,13 +200,14 @@
         "storage": "256 gb",
         "color": "black",
         "number of speakers": "2",
-        "launch Date":["30/9/202"],
+        "launch Date": [
+            "30/9/202"
+        ],
         "camera": "64 mp",
         "speed": "5g",
-        "connectivity":"c"
+        "connectivity": "c"
     },
-
-     {
+    {
         "id": "14",
         "company name": "appple",
         "model number": "iphone 13 pro ",
@@ -186,14 +215,14 @@
         "storage": "128 gb",
         "color": "golden",
         "number of speakers": "2",
-        "launch Date":["14/9/2021"],
+        "launch Date": [
+            "14/9/2021"
+        ],
         "camera": "64 mp",
         "speed": "5g",
-        "connectivity":"c"
+        "connectivity": "c"
     },
-
-
-{
+    {
         "id": "15",
         "company name": "One Plus",
         "model number": "Nord",
@@ -201,10 +230,12 @@
         "storage": "256 gb",
         "color": "marble blue",
         "number of speakers": "2",
-        "launch Date":["31/3/2020"],
+        "launch Date": [
+            "31/3/2020"
+        ],
         "camera": "64 mp",
         "speed": "5g",
-        "connectivity":"c"
+        "connectivity": "c"
     },
     {
         "id": "16",
@@ -214,13 +245,13 @@
         "storage": "64 gb",
         "color": "white",
         "number of speakers": "2",
-        "launch Date":["26/9/2020"],
+        "launch Date": [
+            "26/9/2020"
+        ],
         "camera": "64 mp",
         "speed": "5g",
-
-        "connectivity":"c"
+        "connectivity": "c"
     },
-
     {
         "id": "17",
         "company name": "relame",
@@ -229,11 +260,12 @@
         "storage": "32 gb",
         "color": "silver",
         "number of speakers": "2",
-        "launch Date":["26/05/2021"],
+        "launch Date": [
+            "26/05/2021"
+        ],
         "camera": "64 mp",
         "speed": "5g",
-
-        "connectivity":"c"
+        "connectivity": "c"
     },
     {
         "id": "18",
@@ -243,15 +275,14 @@
         "storage": "128gb",
         "color": "white & black",
         "number of speakers": "2",
-        "launch Date":["08/9/2022"],
+        "launch Date": [
+            "08/9/2022"
+        ],
         "camera": "200mp",
         "speed": "5g",
-
-        "connectivity":"c"
-        
+        "connectivity": "c"
     },
     {
-
         "id": "19",
         "company name": "A20s",
         "model number": "12345",
@@ -259,13 +290,14 @@
         "storage": "128gb",
         "color": "blue",
         "number of speakers": "2",
-        "launch Date":["08/9/2022"],
+        "launch Date": [
+            "08/9/2022"
+        ],
         "camera": "16mp",
         "speed": "4g",
-
-        "connectivity":"c"
-        },{
-
+        "connectivity": "c"
+    },
+    {
         "id": "20",
         "company name": "Mota",
         "model number": "Edge 80 Ultra",
@@ -273,26 +305,29 @@
         "storage": "35gb",
         "color": "blue & black",
         "number of speakers": "8",
-        "launch Date":["06/9/2022"],
+        "launch Date": [
+            "06/9/2022"
+        ],
         "camera": "900mp",
         "speed": "9g",
-
-        "connectivity":"g"
-        },{
+        "connectivity": "g"
+    },
+    {
         "id": "21",
-
         "company name": "vivo",
         "model number": "15486",
         "ram": "6gb",
         "storage": "64gb",
         "color": "black",
         "number of speakers": "1",
-        "launch Date":["08/9/2022"],
+        "launch Date": [
+            "08/9/2022"
+        ],
         "camera": "64mp",
         "speed": "4g",
-
-        "connectivity":"c"
-     },{   
+        "connectivity": "c"
+    },
+    {
         "id": "22",
         "company name": "vivo 95",
         "model number": "Nord",
@@ -300,12 +335,12 @@
         "storage": "128 gb",
         "color": "marble blue",
         "number of speakers": "2",
-        "launch Date":["31/9/2018"],
+        "launch Date": [
+            "31/9/2018"
+        ],
         "camera": "64 mp",
         "speed": "5g",
-        "connectivity":"c"
-
-
+        "connectivity": "c"
     },
     {
         "id": "23",
@@ -315,34 +350,34 @@
         "storage": "128 gb",
         "color": "Steel Blue",
         "number of speakers": "2",
-        "launch Date":["30/03/2021"],
+        "launch Date": [
+            "30/03/2021"
+        ],
         "camera": "48 mp",
         "speed": "4g",
-        "connectivity":"c"
+        "connectivity": "c"
     },
-       
-
-   {
+    {
         "id": "24",
-
         "company name": "samsung",
         "model number": "SM-F415FZBGINS",
         "ram": "6gb",
         "storage": "128gb",
         "color": "fusion blue",
         "number of speakers": "1",
-        "launch Date":["08/10/2020"],
+        "launch Date": [
+            "08/10/2020"
+        ],
         "camera": "64mp",
         "speed": "4g",
-
-        "launch Date":["11/02/2020"],
+        "launch Date": [
+            "11/02/2020"
+        ],
         "camera": "64 mp",
         "speed": "4g",
-        "connectivity":"c"
-
-
+        "connectivity": "c"
     },
-    {   
+    {
         "id": "25",
         "company name": "poco x2",
         "model number": "MZB8744IN",
@@ -350,13 +385,14 @@
         "storage": "128 gb",
         "color": "Steel Blue",
         "number of speakers": "2",
-        "launch Date":["30/03/2021"],
+        "launch Date": [
+            "30/03/2021"
+        ],
         "camera": "48 mp",
         "speed": "4g",
-        "connectivity":"c"
-     }
-        ,
-     {
+        "connectivity": "c"
+    },
+    {
         "id": "26",
         "company name": "Readmi",
         "model number": "MZB0B6OIN",
@@ -364,14 +400,14 @@
         "storage": "64gb",
         "color": "Pacific Blue",
         "number of speakers": "1",
-        "launch Date":["17/3/2022"],
+        "launch Date": [
+            "17/3/2022"
+        ],
         "camera": "50mp",
         "speed": "4g",
-        "connectivity":"c"
-
-     },
-
-{   
+        "connectivity": "c"
+    },
+    {
         "id": "28",
         "company name": "Xiaomi",
         "model number": "M2101K6G",
@@ -379,37 +415,42 @@
         "storage": "128 gb",
         "color": "Blue",
         "number of speakers": "2",
-        "launch Date":["30/03/2019"],
+        "launch Date": [
+            "30/03/2019"
+        ],
         "camera": "48 mp",
         "speed": "4g",
-        "connectivity":"c"
-
-
-    }, {   
+        "connectivity": "c"
+    },
+    {
         "id": "29",
         "company name": "poco m2 pro",
         "model number": "Not",
         "ram": "4gb",
-         "storage": "128 gb",
+        "storage": "128 gb",
         "color": "Blue",
         "number of speakers": "2",
-        "launch Date":["30/03/2019"],
+        "launch Date": [
+            "30/03/2019"
+        ],
         "camera": "48 mp",
         "speed": "4g",
-        "connectivity":"c"
+        "connectivity": "c"
     },
-    {   
+    {
         "id": "30",
         "company name": "SONY",
         "model number": "Not",
         "ram": "8gb",
-         "storage": "128 gb",
+        "storage": "128 gb",
         "color": "Blue",
         "number of speakers": "2",
-        "launch Date":["30/03/2022"],
+        "launch Date": [
+            "30/03/2022"
+        ],
         "camera": "48 mp",
         "speed": "5g",
-        "connectivity":"c"
+        "connectivity": "c"
     }
     
     {
@@ -420,14 +461,13 @@
         "storage": "32 gb",
         "color": "silver",
         "number of speakers": "2",
-        "launch Date":["26/05/2021"],
+        "launch Date": [
+            "26/05/2021"
+        ],
         "camera": "64 mp",
         "speed": "5g",
-
-        "connectivity":"c"
+        "connectivity": "c"
     },
-
-
     {
         "id": "32",
         "company name": "Huawei",
@@ -436,10 +476,12 @@
         "storage": "256gb",
         "color": "sky blue",
         "number of speakers": "3",
-        "launch Date":["06/09/2022"],
+        "launch Date": [
+            "06/09/2022"
+        ],
         "camera": "108mp",
         "speed": "5g",
-        "connectivity":"c"
+        "connectivity": "c"
     }
     
 
@@ -451,27 +493,29 @@
         "storage": "32 gb",
         "color": "silver",
         "number of speakers": "2",
-     "launch Date":["11/02/2020"],
+        "launch Date": [
+            "11/02/2020"
+        ],
         "camera": "64 mp",
         "speed": "4g",
-        "connectivity":"c"
-        },
-    
+        "connectivity": "c"
+    },
     {
         "id": "34",
-
         "company name": "readme",
         "model number": "Note 9 Pro",
         "ram": "8gb",
         "storage": "128 gb",
         "color": "blue",
         "number of speakers": "2",
-     "launch Date":["11/02/2019"],
+        "launch Date": [
+            "11/02/2019"
+        ],
         "camera": "64 mp",
         "speed": "4g",
-        "connectivity":"c"
-       },
-      {
+        "connectivity": "c"
+    },
+    {
         "id": "35",
         "company name": "apple i phone",
         "model number": "i3",
@@ -479,13 +523,14 @@
         "storage": "128 gb",
         "color": "white",
         "number of speakers": "2",
-     "launch Date":["11/02/2019"],
+        "launch Date": [
+            "11/02/2019"
+        ],
         "camera": "64 mp",
         "speed": "4g",
-        "connectivity":"c"
-
-        },
-{
+        "connectivity": "c"
+    },
+    {
         "id": "36",
         "company name": "oppo",
         "model number": "A38",
@@ -493,12 +538,14 @@
         "storage": "64 gb",
         "color": "blue",
         "number of speakers": "2",
-        "launch Date":["26/5/2018"],
+        "launch Date": [
+            "26/5/2018"
+        ],
         "camera": "32 mp",
         "speed": "5g",
-        "connectivity":"c"
+        "connectivity": "c"
     },
-   {
+    {
         "id": "37",
         "company name": "Samsung",
         "model number": "A30s",
@@ -506,12 +553,14 @@
         "storage": "64 gb",
         "color": "Pale green",
         "number of speakers": "1",
-        "launch Date":["22/8/2019"],
+        "launch Date": [
+            "22/8/2019"
+        ],
         "camera": "42 mp",
         "speed": "4g",
-        "connectivity":"c"
+        "connectivity": "c"
     },
-{
+    {
         "id": "33",
         "company name": "Samsung",
         "model number": "Galaxy F42 5G",
@@ -519,12 +568,14 @@
         "storage": "512 gb",
         "color": "blue",
         "number of speakers": "1",
-        "launch Date":["9/22"],
+        "launch Date": [
+            "9/22"
+        ],
         "camera": "48 mp",
         "speed": "5g",
-        "connectivity":"c"
+        "connectivity": "c"
     },
-       {
+    {
         "id": "32",
         "company name": "Vivo",
         "model number": "Y11",
@@ -532,10 +583,12 @@
         "storage": "32 gb",
         "color": "blue",
         "number of speakers": "1",
-        "launch Date":["18/10/2019"],
+        "launch Date": [
+            "18/10/2019"
+        ],
         "camera": "13 mp",
         "speed": "4g",
-        "connectivity":"c"
+        "connectivity": "c"
     },
     {
         "id": "38",
@@ -545,12 +598,14 @@
         "storage": "64 gb",
         "color": "Purple",
         "number of speakers": "2",
-        "launch Date":["22/8/2019"],
+        "launch Date": [
+            "22/8/2019"
+        ],
         "camera": "20 mp",
         "speed": "4g",
-        "connectivity":"c"
+        "connectivity": "c"
     },
-     {
+    {
         "id": "47",
         "company name": "Readmi",
         "model number": "m2101k7ai",
@@ -558,13 +613,14 @@
         "storage": "128gb",
         "color": "Shadow Black",
         "number of speakers": "2",
-        "launch Date":["4/3/2021"],
+        "launch Date": [
+            "4/3/2021"
+        ],
         "camera": "48mp",
         "speed": "4g",
-        "connectivity":"c"
+        "connectivity": "c"
     },
     {
-
         "id": "39",
         "company name": "poco",
         "model number": "Narzo 31 r",
@@ -572,12 +628,13 @@
         "storage": "128 gb",
         "color": "black",
         "number of speakers": "3",
-        "launch Date":["22/8/2019"],
+        "launch Date": [
+            "22/8/2019"
+        ],
         "camera": "64 mp",
-        "speed": "5g",
-
-     },
- {
+        "speed": "5g"
+    },
+    {
         "id": "37",
         "company name": "Redmi",
         "model number": "10 prime",
@@ -585,22 +642,41 @@
         "storage": "64 gb",
         "color": "white",
         "number of speakers": "2",
-        "launch Date":["03/19"],
+        "launch Date": [
+            "03/19"
+        ],
         "camera": "58 mp",
         "speed": "4g",
-        "connectivity":"c"
-    }
-
-{ "id": "41",
+        "connectivity": "c"
+    },
+    {
+        "id": "42",
         "company name": "Apple",
         "model number": "14 Pro Max",
         "ram": "8gb",
         "storage": "64 gb",
         "color": "black",
         "number of speakers": "2",
-        "launch Date":["12/9/2022"],
+        "launch Date": [
+            "12/9/2022"
+        ],
         "camera": "32 mp",
         "speed": "5g",
-        "connectivity":"c"
-}
+        "connectivity": "c"
+    },
+    {
+        "id": "69",
+        "company name": "Redmi",
+        "model number": "10 Prime",
+        "ram": "4gb",
+        "storage": "64 gb",
+        "color": "Phantom Black",
+        "number of speakers": "2",
+        "launch Date": [
+            "03/09/2021"
+        ],
+        "camera": "50 mp",
+        "speed": "4g",
+        "connectivity": "c"
+    }
 ]
