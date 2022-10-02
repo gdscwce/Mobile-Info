@@ -854,4 +854,19 @@
         "speed": "5g",
         "connectivity": "Lightning"
     },
+{
+        "id": "87",
+        "company name": "Nokia",
+        "model number": "XR20",
+        "ram": "6gb",
+        "storage": "128 gb",
+        "color": "blue",
+        "number of speakers": "2",
+        "launch Date": [
+            "2025"
+        ],
+        "camera": "128 mp",
+        "speed": "4g",
+        "connectivity": "c"
+    },
 ]
