@@ -854,4 +854,19 @@
         "speed": "5g",
         "connectivity": "Lightning"
     },
+{
+        "id": "87",
+        "company name": "Samsung",
+        "model number": "galaxy M31s",
+        "ram": "6 gb",
+        "storage": "128 gb",
+        "color": "black",
+        "number of speakers": "2",
+        "launch Date": [
+            "july 30, 2020"
+        ],
+        "camera": "64 mp",
+        "speed": "4g",
+        "connectivity": "C type"
+    }
 ]
