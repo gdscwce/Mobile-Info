@@ -839,3 +839,19 @@
         "speed": "4g",
         "connectivity": "c"
 },
+{
+        "id": "86",
+        "company name": "Iphone",
+        "model number": "13",
+        "ram": "4 gb",
+        "storage": "128 gb",
+        "color": "white",
+        "number of speakers": "2",
+        "launch Date": [
+            "September 14, 2021"
+        ],
+        "camera": "12 mp",
+        "speed": "5g",
+        "connectivity": "Lightning"
+    },
+]
