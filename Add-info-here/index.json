@@ -857,6 +857,20 @@
 {
         "id": "87",
         "company name": "Samsung",
+        "model number": "14",
+        "ram": "6 gb",
+        "storage": "128 gb",
+        "color": "silver",
+        "number of speakers": "2",
+        "launch Date": [
+            "May 18, 2021"
+        ],
+        "camera": "12 mp",
+        "speed": "5g",
+        "connectivity": "Lightning"
+    },
+    {
+        "id": "88",
         "model number": "galaxy M31s",
         "ram": "6 gb",
         "storage": "128 gb",
@@ -868,8 +882,8 @@
         "camera": "64 mp",
         "speed": "4g",
         "connectivity": "C type"
-    }
-        "id": "88",
+    },{
+        "id": "89",
         "company name": "Nokia",
         "model number": "XR20",
         "ram": "6gb",
