@@ -868,5 +868,63 @@
         "camera": "50 mp",
         "speed": "5g",
         "connectivity": "Lightning"
-    }
+    },{
+        "id": "88",
+        "company name": "Iphone",
+        "model number": "3G",
+        "ram": "128 mb",
+        "storage": "8 gb",
+        "color": "white",
+        "number of speakers": "1",
+        "launch Date": [
+            "July 30, 2008"
+        ],
+        "camera": "2 mp",
+        "speed": "3g",
+        "connectivity": "Lightning"
+    },
+{
+         "id": "88",
+        "company name": "Samsung",
+        "model number": "14",
+        "ram": "6 gb",
+        "storage": "128 gb",
+        "color": "silver",
+        "number of speakers": "2",
+        "launch Date": [
+            "May 18, 2021"
+        ],
+        "camera": "12 mp",
+        "speed": "5g",
+        "connectivity": "Lightning"
+    },
+    {
+        "id": "88",
+        "model number": "galaxy M31s",
+        "ram": "6 gb",
+        "storage": "128 gb",
+        "color": "black",
+        "number of speakers": "2",
+        "launch Date": [
+            "july 30, 2020"
+        ],
+        "camera": "64 mp",
+        "speed": "4g",
+        "connectivity": "C type"
+    },{
+        "id": "89",
+        "company name": "Nokia",
+        "model number": "XR20",
+        "ram": "6gb",
+        "storage": "128 gb",
+        "color": "blue",
+        "number of speakers": "2",
+        "launch Date": [
+            "2025"
+        ],
+        "camera": "128 mp",
+        "speed": "4g",
+        "connectivity": "c"
+    },
+
 ]
