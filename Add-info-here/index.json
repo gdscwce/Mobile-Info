@@ -856,6 +856,21 @@
     },
 {
         "id": "87",
+        "company name": "Iphone",
+        "model number": "3G",
+        "ram": "128 mb",
+        "storage": "8 gb",
+        "color": "white",
+        "number of speakers": "1",
+        "launch Date": [
+            "July 30, 2008"
+        ],
+        "camera": "2 mp",
+        "speed": "3g",
+        "connectivity": "Lightning"
+    },
+{
+         "id": "88",
         "company name": "Samsung",
         "model number": "14",
         "ram": "6 gb",
@@ -897,4 +912,5 @@
         "speed": "4g",
         "connectivity": "c"
     },
+
 ]
