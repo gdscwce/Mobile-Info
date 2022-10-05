@@ -856,6 +856,20 @@
     },
 {
         "id": "87",
+        "company name": "One plus",
+        "model number": "Oneplus 10T 5G",
+        "ram": "8 gb",
+        "storage": "256 gb",
+        "color": "Moonstone Black",
+        "number of speakers": "2",
+        "launch Date": [
+            "3 August 2022"
+        ],
+        "camera": "50 mp",
+        "speed": "5g",
+        "connectivity": "Lightning"
+    },{
+        "id": "88",
         "company name": "Iphone",
         "model number": "3G",
         "ram": "128 mb",
