@@ -926,6 +926,20 @@
         "speed": "4g",
         "connectivity": "c"
     },
+
+{
+        "id": "90",
+        "company name": "Samsung",
+        "model number": "M21",
+        "ram": "4gb",
+        "storage": "64 gb",
+        "color": "blue",
+        "number of speakers": "1",
+        "launch Date": [
+            "2020"
+        ],
+        "camera": "48 mp",
+},
  {
         "id": "89",
         "model number": "galaxy M41s",
@@ -953,6 +967,6 @@
         "camera": "128 mp",
         "speed": "4g",
         "connectivity": "c"
-    },
+    }
 
 ]
