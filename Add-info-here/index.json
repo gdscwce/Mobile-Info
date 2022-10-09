@@ -967,6 +967,21 @@
         "camera": "128 mp",
         "speed": "4g",
         "connectivity": "c"
-    }
+    },
+    {
+        "id": "91",
+        "company name": "Xiomi",
+        "model number": "12 Pro",
+        "ram": "12gb",
+        "storage": "256 gb",
+        "color": "Noir black",
+        "number of speakers": "2",
+        "launch Date": [
+            "April 2022"
+        ],
+        "camera": "50 mp",
+        "speed": "5g",
+        "connectivity": "c"
+    },
 
 ]
