@@ -970,7 +970,21 @@
         "connectivity": "c"
     },
 {
-
+        "id": "93",
+        "company name": "samsung",
+        "model number": "note 2",
+        "ram": "8gb",
+        "storage": "256 gb",
+        "color": "green",
+        "number of speakers": "2",
+        "launch Date": [
+            "28/6/2021"
+        ],
+        "camera": "128 mp",
+        "speed": "5g",
+        "connectivity": "c"
+    },
+{
         "id": "92",
         "company name": "Google",
         "model number": "Pixel 6 pro+",
@@ -1002,6 +1016,7 @@
         "speed": "5g",
         "connectivity": "c"
     }
+
 
 
 ]
