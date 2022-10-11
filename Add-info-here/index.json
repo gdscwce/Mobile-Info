@@ -953,7 +953,8 @@
         "camera": "64 mp",
         "speed": "4g",
         "connectivity": "C type"
-    },{
+    },
+{
         "id": "90",
         "company name": "Nokia 3310",
         "model number": "XR20",
@@ -979,9 +980,51 @@
         "launch Date": [
             "April 2022"
         ],
+{
+        "id": "93",
+        "company name": "samsung",
+        "model number": "note 2",
+        "ram": "8gb",
+        "storage": "256 gb",
+        "color": "green",
+        "number of speakers": "2",
+        "launch Date": [
+            "28/6/2021"
+        ],
+        "camera": "128 mp",
+        "speed": "5g",
+        "connectivity": "c"
+    },
+{
+        "id": "92",
+        "company name": "Google",
+        "model number": "Pixel 6 pro+",
+        "ram": "8 gb",
+        "storage": "512 gb",
+        "color": "black",
+        "number of speakers": "2",
+        "launch Date": [
+            "25/12/2019"
+        ],
+        "camera": "64 mp",
+        "launch Date":["19/10/2021"],
         "camera": "50 mp",
         "speed": "5g",
         "connectivity": "c"
     },
-
+{
+        "id": "91",
+        "company name": "iQOO",
+        "model number": "Neo 6",
+        "ram": "8gb",
+        "storage": "128 gb",
+        "color": "Dark Nova",
+        "number of speakers": "2",
+        "launch Date": [
+            "31/05/2022"
+        ],
+        "camera": "64 mp",
+        "speed": "5g",
+        "connectivity": "c"
+    }
 ]
