@@ -953,7 +953,8 @@
         "camera": "64 mp",
         "speed": "4g",
         "connectivity": "C type"
-    },{
+    },
+{
         "id": "90",
         "company name": "Nokia 3310",
         "model number": "XR20",
@@ -969,6 +970,7 @@
         "connectivity": "c"
     },
 {
+
         "id": "92",
         "company name": "Google",
         "model number": "Pixel 6 pro+",
@@ -985,5 +987,21 @@
         "speed": "5g",
         "connectivity": "c"
     },
+{
+        "id": "91",
+        "company name": "iQOO",
+        "model number": "Neo 6",
+        "ram": "8gb",
+        "storage": "128 gb",
+        "color": "Dark Nova",
+        "number of speakers": "2",
+        "launch Date": [
+            "31/05/2022"
+        ],
+        "camera": "64 mp",
+        "speed": "5g",
+        "connectivity": "c"
+    }
+
 
 ]
