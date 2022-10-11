@@ -969,6 +969,17 @@
         "speed": "4g",
         "connectivity": "c"
     },
+    {
+        "id": "91",
+        "company name": "Xiomi",
+        "model number": "12 Pro",
+        "ram": "12gb",
+        "storage": "256 gb",
+        "color": "Noir black",
+        "number of speakers": "2",
+        "launch Date": [
+            "April 2022"
+        ],
 {
         "id": "93",
         "company name": "samsung",
@@ -1016,7 +1027,4 @@
         "speed": "5g",
         "connectivity": "c"
     }
-
-
-
 ]
