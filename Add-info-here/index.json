@@ -1043,5 +1043,21 @@
         "speed": "4g",
         "connectivity": "c"
     
+},
+{
+        "id": "95",
+        "company name": "Panasonic",
+        "model number": "Panasonic Eluga A3 Pro",
+        "ram": "3gb",
+        "storage": "32 gb",
+        "color": "Gold",
+        "number of speakers": "1",
+        "launch Date": [
+            "10/08/2017"
+        ],
+        "camera": "8mp",
+        "speed": "4g",
+        "connectivity": "b"
+    
 }
 ]
