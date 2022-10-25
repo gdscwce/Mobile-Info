@@ -1080,7 +1080,7 @@
 
 },
 {
-        "id": "94",
+        "id": "194",
         "company name": "Samsung",
         "model number": "A 21 S",
         "ram": "4gb",
@@ -1131,5 +1131,21 @@
         "connectivity": "c"
     }
 
+,
+{
+        "id": "103",
+        "company name": "Samsung",
+        "model number": "J7 2015",
+        "ram": "2gb",
+        "storage": "32 gb",
+        "color": "Gray",
+        "number of speakers": "2",
+        "launch Date": [
+            "13/05/2016"
+        ],
+        "camera": "12 mp",
+        "speed": "4g",
+        "connectivity": "b"
+    }
 
 ]
