@@ -982,7 +982,7 @@
         ]
     },
 {
-        "id": "93",
+        "id": "92",
         "company name": "samsung",
         "model number": "note 2",
         "ram": "8gb",
@@ -997,7 +997,7 @@
         "connectivity": "c"
     },
 {
-        "id": "92",
+        "id": "93",
         "company name": "Google",
         "model number": "Pixel 6 pro+",
         "ram": "8 gb",
@@ -1014,7 +1014,7 @@
         "connectivity": "c"
     },
 {
-        "id": "91",
+        "id": "94",
         "company name": "iQOO",
         "model number": "Neo 6",
         "ram": "8gb",
@@ -1029,7 +1029,7 @@
         "connectivity": "c"
     },
 {
-        "id": "94",
+        "id": "95",
         "company name": "Vivo",
         "model number": "Vivo 1811",
         "ram": "3gb",
@@ -1042,8 +1042,8 @@
         "camera": "13mp",
         "speed": "4g",
         "connectivity": "c"
-    
-}
+
+},
 {
         "id": "95",
         "company name": "VivoY30",
@@ -1059,5 +1059,23 @@
         "speed": "5g",
         "connectivity": "c"
     
-}
+
+
+},
+{
+        "id": "96",
+        "company name": "redmi",
+        "model number": "Note 7 pro",
+        "ram": "4gb",
+        "storage": "128 gb",
+        "color": "neptune blue",
+        "number of speakers": "2",
+        "launch Date": [
+            "14/02/2019"
+        ],
+        "camera": "48 mp",
+        "speed": "5g",
+        "connectivity": "c"
+    }
+
 ]
