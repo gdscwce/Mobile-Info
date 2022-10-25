@@ -982,7 +982,7 @@
         ]
     },
 {
-        "id": "93",
+        "id": "92",
         "company name": "samsung",
         "model number": "note 2",
         "ram": "8gb",
@@ -997,7 +997,7 @@
         "connectivity": "c"
     },
 {
-        "id": "92",
+        "id": "93",
         "company name": "Google",
         "model number": "Pixel 6 pro+",
         "ram": "8 gb",
@@ -1014,7 +1014,7 @@
         "connectivity": "c"
     },
 {
-        "id": "91",
+        "id": "94",
         "company name": "iQOO",
         "model number": "Neo 6",
         "ram": "8gb",
@@ -1029,7 +1029,7 @@
         "connectivity": "c"
     },
 {
-        "id": "94",
+        "id": "100",
         "company name": "Vivo",
         "model number": "Vivo 1811",
         "ram": "3gb",
@@ -1042,7 +1042,24 @@
         "camera": "13mp",
         "speed": "4g",
         "connectivity": "c"
+
+},
+{
+        "id": "98",
+        "company name": "VivoY30",
+        "model number": "Vivo 1911",
+        "ram": "4gb",
+        "storage": "64 gb",
+        "color": "Emerald Green",
+        "number of speakers": "2",
+        "launch Date": [
+            "19/11/2019"
+        ],
+        "camera": "15mp",
+        "speed": "5g",
+        "connectivity": "c"
     
+
 },
 {
         "id": "95",
@@ -1058,6 +1075,61 @@
         "camera": "8mp",
         "speed": "4g",
         "connectivity": "b"
-    
-}
+
+
+
+},
+{
+        "id": "94",
+        "company name": "Samsung",
+        "model number": "A 21 S",
+        "ram": "4gb",
+        "storage": "64 gb",
+        "color": "Black",
+        "number of speakers": "2",
+        "launch Date": [
+            "15/05/2020"
+        ],
+        "camera": "32mp",
+        "speed": "4g",
+        "connectivity": "c"
+
+},
+{
+        "id": "99",
+        "company name": "Xiaomi ",
+        "model number": "Poco M3",
+        "ram": "4/6GB ",
+        "storage": "64/128gb",
+        "color": "Cool Blue, Poco Yellow, Power Black",
+        "number of speakers": "2",
+        "launch Date": [
+            "2020, November 27"
+        ],
+        "camera": "48 MP, f/1.8, (wide), 1/2.0", 0.8µm, PDAF
+         2 MP, f/2.4, (macro)
+         2 MP, f/2.4, (depth)",
+        "speed": "Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)",
+        "connectivity": "4G"
+
+
+
+},
+{
+        "id": "96",
+        "company name": "redmi",
+        "model number": "Note 7 pro",
+        "ram": "4gb",
+        "storage": "128 gb",
+        "color": "neptune blue",
+        "number of speakers": "2",
+        "launch Date": [
+            "14/02/2019"
+        ],
+        "camera": "48 mp",
+        "speed": "5g",
+        "connectivity": "c"
+    }
+
+
 ]
