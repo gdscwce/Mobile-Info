@@ -32,7 +32,7 @@
         ],
         "camera": "32 mp",
         "speed": "5g",
-        "connectivity": "c"
+        "connectivity": "c",
         "launch Date":["16/09/2022"],
         "camera": "48 mp",
         "speed": "5g",
@@ -174,7 +174,7 @@
             "29/08/2019"
         ],
         "camera": "48 mp",
-        "speed": "4g",
+        "speed": "4g"
     },
     {
         "company name": "samsung",
@@ -464,7 +464,7 @@
         "camera": "48 mp",
         "speed": "5g",
         "connectivity": "c"
-    }
+    },
     
     {
         "id": "31",
@@ -496,7 +496,7 @@
         "speed": "5g",
         "connectivity": "c"
     }
-    
+    ,
 
     {
         "id": "33",
@@ -693,7 +693,7 @@
         "launch Date":["18/03/2021"],
         "camera": "108 mp",
         "speed": "4g",
-        "connectivity":"c",
+        "connectivity":"c"
     },
     {
         "id": "69",
@@ -771,7 +771,7 @@
         "model number": "GT neo 3t",
         "ram": "6gb/8gb",
         "storage": "128gb/256gb",
-        "color": ["Shade Black","Dash Yellow","Drifting White"]
+        "color": ["Shade Black","Dash Yellow","Drifting White"],
         "number of speakers": "2",
         "launch Date": [
             "September 16, 2022 in India"
@@ -823,7 +823,7 @@
 
         "connectivity": "c"
 
-}
+},
 {
     "id": "85",
         "company name": "Redmi",
@@ -938,7 +938,7 @@
         "launch Date": [
             "2020"
         ],
-        "camera": "48 mp",
+        "camera": "48 mp"
 },
  {
         "id": "89",
@@ -994,6 +994,21 @@
         ],
         "camera": "128 mp",
         "speed": "5g",
+        "connectivity": "c"
+    },
+    {
+        "id": "94",
+        "company name": "Samsung",
+        "model number": "m31",
+        "ram": "6gb",
+        "storage": "128 gb",
+        "color": "Ocean Blue",
+        "number of speakers": "2",
+        "launch Date": [
+            "2020, February 25"
+        ],
+        "camera": "64 mp",
+        "speed": "4g",
         "connectivity": "c"
     },
 {
