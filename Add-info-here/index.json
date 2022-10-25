@@ -1042,7 +1042,25 @@
         "camera": "13mp",
         "speed": "4g",
         "connectivity": "c"
+
+},
+{
+        "id": "95",
+        "company name": "VivoY30",
+        "model number": "Vivo 1911",
+        "ram": "4gb",
+        "storage": "64 gb",
+        "color": "Emerald Green",
+        "number of speakers": "2",
+        "launch Date": [
+            "19/11/2019"
+        ],
+        "camera": "15mp",
+        "speed": "5g",
+        "connectivity": "c"
     
+
+
 },
 {
         "id": "96",
@@ -1059,4 +1077,5 @@
         "speed": "5g",
         "connectivity": "c"
     }
+
 ]
