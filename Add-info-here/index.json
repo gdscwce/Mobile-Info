@@ -1161,6 +1161,21 @@
         "camera": "12 mp",
         "speed": "4g",
         "connectivity": "b"
-    }
-
+ }
+,
+{
+        "id": "104",
+        "company name": "MI",
+        "model number": "Redmi Note 7",
+        "ram": "4 gb",
+        "storage": "64 gb",
+        "color": "Onyx Black",
+        "number of speakers": "1",
+        "launch Date": [
+            "28 February 2019"
+        ],
+        "camera": "12 mp",
+        "speed": "4G",
+        "connectivity": "c"
+ }
 ]
